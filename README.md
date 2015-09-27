@@ -3,7 +3,6 @@
 ssteam is a simple SFTP Client with some extra Features
 
 # Features
-
--GUI
--Login via Key or Password
--Automatic sync specific files with the server
+0. GUI
+0. Login via Key or Password
+0. Automatic sync specific files with the server
